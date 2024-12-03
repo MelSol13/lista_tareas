@@ -1,0 +1,30 @@
+.completed {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+#li-compl {
+    width: 60%;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #ecf0f3;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+i {
+    margin-right: 10px;
+    color: #007bff;
+}
